@@ -20,7 +20,7 @@ The customer interface displays questions that require numerical answers
 
 If the item ID is valid and the amount required is avalable, the order is placed.
 
-![image](https://user-images.githubusercontent.com/46940564/56930531-f17d0e00-6aaa-11e9-816f-ae1bb5082da8.png)
+![image](https://user-images.githubusercontent.com/46940564/56931298-85e87000-6aad-11e9-8691-65437f55b909.png)
 
 ![Bamazon_Successful1](https://user-images.githubusercontent.com/46940564/56928584-4ae23e80-6aa5-11e9-99a1-8bcabb546d20.gif)
 
@@ -31,6 +31,6 @@ If an invalid amount is entered the program will ask for you to:
 	? Please modify your order
 	OKAY, EXIT
 	
-![image](https://user-images.githubusercontent.com/46940564/56930533-f477fe80-6aaa-11e9-8f7e-6a8646f82df8.png)
+![image](https://user-images.githubusercontent.com/46940564/56931302-884aca00-6aad-11e9-8138-2732fcbbf0e9.png)
 	
 
