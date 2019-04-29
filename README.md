@@ -1,10 +1,10 @@
 # Bamazon
 
 ## Description
-The application takes npm [inquirer](https://www.npmjs.com/package/inquirer) commmands along with [mysql](https://www.npmjs.com/package/mysql) code which allows the customer to purchase items as long as they are in stock
+The application takes npm [inquirer](https://www.npmjs.com/package/inquirer) commmands along with [mysql](https://www.npmjs.com/package/mysql) code and allows the customer to purchase books as long as they are in stock.
 
 ### Customer Interface
-The application opens with a display of the current items in stock.  From the item, the consomer can select the id of a item along with the quantity they want. The program will respond with a successful purchase, or , if the quality is too high, it will respond asking to select a new quantity.
+The application opens with a display of the current books in stock.  The consumer can select the id of a book along with the quantity they want. The program will respond with a successful purchase. If the quality is too high, or the id does not exist, the program will prompt for new values.
 
 To run the customer interface please follow the steps below:
 
