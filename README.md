@@ -20,3 +20,4 @@ The customer interface displays questions that require numerical answers
 
 If the item ID is valid and the amount required is avalable, the order is placed.
 
+![Bamazon_Successful1](https://user-images.githubusercontent.com/46940564/56928584-4ae23e80-6aa5-11e9-99a1-8bcabb546d20.gif)
