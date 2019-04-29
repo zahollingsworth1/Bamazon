@@ -12,3 +12,11 @@ To run the customer interface please follow the steps below:
 	cd bamazon
 	npm install
 	node bamazonCustomer.js
+	
+The customer interface displays questions that require numerical answers 
+
+	? Please enter the Item ID which you would like to buy. 
+	? How many do you need? 
+
+If the item ID is valid and the amount required is avalable, the order is placed.
+
